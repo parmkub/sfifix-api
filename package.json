@@ -1,0 +1,23 @@
+{
+  "name": "sfifix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parmkub/sfifix-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parmkub/sfifix-backend/issues"
+  },
+  "homepage": "https://github.com/parmkub/sfifix-backend#readme",
+  "dependencies": {
+    "googleapis": "^114.0.0",
+    "jquery": "^3.6.4"
+  }
+}

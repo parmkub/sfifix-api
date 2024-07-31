@@ -1,0 +1,60 @@
+html,body{
+    /* font-family: 'Mali', cursive; */
+    font-family: 'Sarabun', sans-serif;
+    font-weight: bold;
+}
+.carousel-item img{
+    width: auto;
+    height: 400px;
+    max-height: 400px;
+    margin: auto; 
+    display: block;
+    }
+ 
+    th {
+    font-size: 12px;
+
+}
+th.a {
+    text-align: center;
+}
+
+td {
+    font-size: 12px;
+
+}
+p {
+    font-size: 12px;
+
+}
+p.c {
+    font-size: 18px;
+
+}
+td p {
+    font-size: 10px;
+
+}
+td.a {
+    text-align: center;
+}
+p.a {
+    text-align: center;
+}
+.textarea {
+    font-size: 12px;
+}
+.form-check {
+  font-size: 12px
+}
+.form-label{
+    font-size: 12px;
+}
+
+.content {
+    max-width: 500px;
+    margin: auto;
+}
+
+
+
